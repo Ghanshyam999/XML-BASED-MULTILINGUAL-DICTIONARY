@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>find</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>find</pro>
+	<origin>Old English findan, of Germanic origin; related to Dutch vinden and German finden.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>A discovery of something valuable, typically something of archaeological interest.</def>
+		<syn>discovery</syn> 
+		<syn>acquisition</syn>
+		<syn>asset</syn>
+		<syn>unearthing</syn>
+		<syn>uncovering</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg>He made his most spectacular finds in the Valley of the Kings.</eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>find</root>
+			<sp>found</sp>
+			<pp>found</pp>
+			<sim_pre>finds</sim_pre>
+			<pre_par>finding</pre_par>
+		</fov>
+		<def>Discover or perceive by chance or unexpectedly.</def>
+		<pl></pl>
+		<gen></gen>
+		<syn>discover</syn>
+		<syn>become aware</syn>
+		<syn>realize</syn>
+		<syn>observe</syn>
+		<syn>notice</syn>
+		<syn>note</syn>
+		<syn>perceive</syn>
+		<syn>learn</syn>
+		<syn>detect</syn>
+		<phr></phr>
+		<eg>Lindsey looked up to find Niall watching her.</eg>
+	</p>
+	
+	<rhy>affined, behind, bind, blind, hind, humankind, interwind, kind, mankind, mind, nonaligned.</rhy>
+</ent>
+</eng>
+
+</dictionary>

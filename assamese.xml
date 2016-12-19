@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<ass>
+<ent>
+	<word>আপেল</word>
+	<word_e>apple</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>এপল্</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>সৰল পাত আৰু বগা বা গুলপীয়া ৰঙৰ ফুল ধৰা, ইউৰোপ আৰু এছিয়াত উপলব্ধ এক পৰ্ণপাতী উদ্ভিদৰ খাব পৰা এক সুস্বাদু ফল।</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl>আপেলবোৰ</pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>বিফৰ</word>
+	<word_e>before</word_e>
+	<word_h>पहले</word_h>
+	<word_s></word_s>
+	<pro>বিফৰ</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>adv.</pos>
+		<def>দুটা ঘটনাৰ ভিতৰত প্ৰথমতে হোৱা |</def>
+		<syn>আগেয়ে</syn>
+		<syn>আগতে</syn>
+		<syn>ইতিপূৰ্ব্বে |</syn>
+		<phr></phr>
+		<gen>Unsassigned gender</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>মেকুৰী</word>
+	<word_e>cat</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>কেট</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>এন্দুৰ আৰু নিগনি ধৰাৰ বাবে আৰু পোহনীয়া হিচাপে আদিম কালৰে পৰা ঘৰচীয়া কৰা, বহুতো প্ৰজাতি আৰু প্ৰকাৰ ৰূপে উপলব্ধ এবিধ সৰু মাংসভোজী জন্তু  |</def>
+		<syn>মেকুৰী</syn>
+		<syn>বিৰাল</syn>
+		<syn>বিৰালী </syn>
+		<syn>বিড়াল</syn>
+		<syn>নাকাৰ |</syn>
+		<phr></phr>
+		<gen>Unassigned gender</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>তাৰিখ</word>
+	<word_e>date</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>ডেইট্</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>দিন, মাহ আৰু বছৰ উল্লেখ কৰি পঞ্জিকাৰ এটা নিৰ্দ্দিষ্ট দিন |</def>
+		<syn>তাৰিখ</syn>
+		<syn>দিনাংক</syn>
+		<syn>তাং |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>হাতী</word>
+	<word_e>elephant</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>এলিফেণ্ট</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>ডাঠ, প্ৰায় নোমহীন ছাল-যুক্ত, দীঘল, নমনীয়, খাদ্য সংগ্ৰহকাৰী এডাল শুঁড় থকা, ওপৰ-পাৰিৰ আগদাঁত দুটা ৰূপান্তৰিত হৈ দীঘল বেঁকা ৰূপ লোৱা, আৰু আফ্ৰিকীয় প্ৰজাতিৰ ক্ষেত্ৰত বিছনীৰ আকৃতিৰ ডাঙৰ কাণ থকা এবিধ ডাঙৰ তৃণভোজী স্তন্যপায়ী জন্তু |</def>
+		<syn>হাতী</syn>
+		<syn>গজ</syn>
+		<syn>হস্তী</syn>
+		<syn>ঐৰাৱৎ</syn>
+		<syn>ক্ষুদ্ৰাক্ষ</syn>
+		<syn>গজেন্দ্ৰ</syn>
+		<syn>দন্তী |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>বিচাৰ</word>
+	<word_e>find</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>ফাইণ্ড</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>v.</pos>
+		<def>কিবা বস্তু বা তথ্য বিচৰা |</def>
+		<syn>বিচাৰ</syn>
+		<syn>সন্ধান কৰ্</syn>
+		<syn>বিচাৰ-খোঁচাৰ কৰ্ |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>যা</word>
+	<word_e>go</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>গৌ</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>v.</pos>
+		<def>নিজৰ স্থান সলনি কৰ্ |</def>
+		<syn>যা</syn>
+		<syn>গ’ল </syn>
+		<syn>চল্</syn>
+		<syn>গতি কৰ্</syn>
+		<syn>গমন কৰ্</syn>
+		<syn>লৰ্</syn>
+		<syn>সঞ্চলিত হ</syn>
+		<syn>যাত্ৰা কৰ্</syn>
+		<syn>স্থানান্তৰ কৰ্</syn>
+		<syn>বদলি কৰ্, সঞ্চাল |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>মুৰ্গী</word>
+	<word_e>hen</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>হেন</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>প্ৰাপ্তবয়স্ক মাইকী মুৰ্গী |</def>
+		<syn>মুৰ্গী |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>conj.</pos>
+		<def>একে ধৰণৰ বা মিল থকা |</def>
+		<syn>নিচিনা</syn>
+		<syn>লেখীয়া</syn>
+		<syn>বৎ</syn>
+		<syn>হেন</syn>
+		<syn>সজীয়া</syn>
+		<syn>আকৃতিৰ |</syn>
+	</p>
+</ent>
+
+<ent>
+	<word>মোৰাব্বা</word>
+	<word_e>jam</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>জেম</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>পকা ফলৰ কোমল থপথপীয়া অংশৰ সৈতে চেনি মিহলাই উতলাই তৈয়াৰ কৰা এবিধ মিঠা খাদ্য ৷ </def>
+		<syn>মোৰাব্বা</syn>
+		<syn>মিঠা আচাৰ |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>গোৰ</word>
+	<word_e>kick</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>কিক্</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>ভৰিৰে কৰা আঘাত |</def>
+		<syn>গোৰ</syn>
+		<syn>পদাঘাত</syn>
+		<syn>লাথ</syn>
+		<syn>লাথি |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<def>ভৰিৰে আঘাত কৰ্।</def>
+		<syn>গোৰ মাৰ্</syn>
+		<syn>গুৰিয়া</syn>
+		<syn>লাথ মাৰ্</syn>
+		<syn>লথিয়া</syn>
+		<syn>পদাঘাত কৰ্ |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>প্ৰেম</word>
+	<word_e>love</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>লাভ</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>কোনো ব্যক্তিৰ প্ৰতি ভালপোৱা আৰু আবেগৰ এক গভীৰ, সুকোমল, ভাষাৰে প্ৰকাশ কৰিব নোৱাৰা অনুভূতি |</def>
+		<syn>প্ৰেম</syn>
+		<syn>মমতা</syn>
+		<syn>মৰম</syn>
+		<syn>ৰোমাঞ্চ</syn>
+		<syn>স্নেহ</syn>
+		<syn>চেনেহ</syn>
+		<syn>আস্তিক</syn>
+		<syn>ভালপোৱা</syn>
+		<syn>প্ৰীতি</syn>
+		<syn>পীৰিতি</syn>
+		<syn>বহনা |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<def>(কোনো ব্যক্তিৰ প্ৰতি) এক অতি গভীৰ, কোমল, অপ্ৰকাশ্য ধৰণৰ চেনেহ আৰু আকৰ্ষণ অনুভৱ কৰা |</def>
+		<syn>প্ৰেম কৰ্</syn>
+		<syn>ভাল পা</syn>
+		<syn>স্নেহ কৰ্‌</syn>
+		<syn>আদৰ ক‍ৰ্‌</syn>
+		<syn>সাদৰ ক‍ৰ্‌</syn>
+		<syn>মৰম ক‍ৰ্‌</syn>
+		<syn>প্ৰণয়পাশত আবদ্ধ হ</syn>
+		<syn>প্ৰণয়াকাংক্ষী হ |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>বান্দৰ</word>
+	<word_e>monkey</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>মংকি</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>প্ৰাইমেট বৰ্গৰ অন্তৰ্গত দীঘল-নেজীয়া মজলীয়া আকাৰৰ এক স্তন্যপায়ী জন্তু।</def>
+		<syn>বান্দৰ fm.বান্দৰী </syn>
+		<syn>মৰ্কট</syn>
+		<syn>কুশাক্ষ</syn>
+		<syn>বানৰ</syn>
+		<syn>কপি</syn>
+		<syn>বলিমুখ</syn>
+		<syn>কীশ</syn>
+		<syn>প্লৱংগ</syn>
+		<syn>প্লৱ |</syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>n.</pos>
+		<def>(কথিত) উৎপটীয়া, খটাসুৰবিধৰ, আনক জোকাই মেলি ভাল পোৱা; কোনো গঠনমূলক কাম নকৰা/কোনো কামৰে অযোগ্য আৰু বান্দৰৰ দৰে উৎপতীয়া ল’ৰা।</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>masculine</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>বাহ</word>
+	<word_e>nest</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>নেষ্ট</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>চৰাইয়ে কণী পাৰিবলৈ আৰু পোৱালি তুলিবলৈ সজা ঘৰ |</def>
+		<syn>বাহ</syn>
+		<syn>নীড়</syn>
+		<syn>অংকুৰক</syn>
+		<syn>পক্ষী নীড়</syn>
+		<syn>পক্ষীগৃহ</syn>
+		<syn>কুলায় |</syn>
+		<phr></phr>
+		<gen>neuter</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>ফেঁচা</word>
+	<word_e>owl</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>আউল</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>স্ত্ৰীগিফৰ্মেছ্ বৰ্গৰ অন্তৰ্গত, ঠেঙত চুটি পাখি আৰু হাঁকোটা থকা, ডাঙৰ মূৰ আৰু চুটি বেঁকা ঠোঁট যুক্ত, আগলৈ ওলোৱা ডাঙৰ চকুৰে এবিধ নিশাচৰ পৰভোজী প্ৰাণী৷ ইহঁতৰ গোটেই গা পাতল, কোমল পাখিৰে আৱৰি থাকে বাবে প্ৰায় শব্দ নকৰাকৈ উৰিব পাৰে৷</def>
+		<syn>ফেঁচা</syn>
+		<syn>উলূক</syn>
+		<syn>পেচক</syn>
+		<syn>নিয়ঁতী</syn>
+		<syn>নিয়ঁতী চৰাই</syn>
+		<syn>যমডাকিনী</syn>
+		<syn>মৰ-চৰাই |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>ময়ূৰ</word>
+	<word_e>peacock</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>পিকক</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>মতা ময়ূৰ চৰাই, যি তাৰ নানা-ৰঙী পাখি মেলি চালি ধৰিব পাৰে।</def>
+		<syn>ম’ৰা</syn>
+		<syn>ময়ূৰ</syn>
+		<syn>কলাপী</syn>
+		<syn>মৈৰা</syn>
+		<syn>পিচ্ছ</syn>
+		<syn>শিখী fm.শিখিনী </syn>
+		<syn>শিখণ্ডী</syn>
+		<syn>শিখাধৰ</syn>
+		<syn>শিখাবল</syn>
+		<syn>গোনৰ্দ</syn>
+		<syn>ময়ূৰী |</syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>ৰাণী</word>
+	<word_e>queen</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>কুইন</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>কোনো সাৰ্বভৌম ৰাজ্যৰ মহিলা শাসনকৰ্তা জনী; সাধাৰণতে ৰজাৰ পত্নী ৷</def>
+		<syn>ৰাণী |</syn>
+		<phr></phr>
+		<gen>feminine</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>মামৰ</word>
+	<word_e>rust</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>ৰাষ্ট</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>অক্সিজেন আৰু জলীয় বাষ্পৰ ক্ৰিয়াৰ ফলত লোৰ পৃষ্ঠত সৃষ্টি হোৱা ৰঙা বা মুগা বৰণৰ চামনি।</def>
+		<syn>মামৰ</syn>
+		<syn>কঁহ</syn>
+		<syn>সিংহান</syn>
+		<syn>লৌহমল</syn>
+		<syn>মৰিচা</syn>
+		<syn>ধাতু মল |</syn>
+		<phr></phr>
+		<gen>neuter</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>ৰ’দ</word>
+	<word_e>sunshine</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>চানচাইন</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def> সূৰ্য-কিৰণ</def>
+		<syn>ৰ’দ</syn>
+		<syn>ৰবিকিৰণ</syn>
+		<syn>ৰবিৰশ্মি</syn>
+		<syn>মিহিৰ-কিৰণ</syn>
+		<syn>সূৰ্য্যালোক</syn>
+		<syn>সূৰ্য্যৰশ্মি</syn>
+		<syn>আতপ</syn>
+		<syn>ৰৌদ্ৰালোক</syn>
+		<syn>ৰবিকৰ</syn>
+		<syn>ৰৌদ্ৰৰাগ</syn>
+		<syn>সৌৰকৰ</syn>
+		<syn>ৰবিজ্যোতি</syn>
+		<syn>ৰৌদ্ৰপ্ৰভা</syn>
+		<syn>ভানুকৰ</syn>
+		<syn>ৰৌদ্ৰ |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>টেনিচ</word>
+	<word_e>tennis</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>টেনিচ</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>মাজত জাল তৰি দুজন বা চাৰিজন খেলুৱৈয়ে ৰেকেটেৰে সৰু বল লৈ খেলা এবিধ খেল |</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>ছাতি</word>
+	<word_e>umbrella</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>আমব্ৰেলা</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>ৰ’দ, বৰষুণ আদিৰ পৰা বাচিবলৈ ব্যৱহাৰ কাপোৰ, প্লাচটিক আদিৰে তৈয়াৰী এক আহিলা |</def>
+		<syn>ছাতি</syn>
+		<syn>আতপ-বাৰণ</syn>
+		<syn>ছত্ৰ</syn>
+		<syn>ছাতা</syn>
+		<syn>ছতা |</syn>
+		<phr></phr>
+		<gen>neuter</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>ৰসধানী</word>
+	<word_e>vacuole</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>ভেকুউল</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>কোষ এটাৰ ভিতৰত থকা আৱৰণ-যুক্ত মোনা, য’ত সাধাৰণতে জুলীয়া পদাৰ্থ জমা হৈ থাকে |</def>
+		<syn>ৰসধানী</syn>
+		<syn>ৰিক্তিকা |</syn>
+		<phr></phr>
+		<gen>neuter</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>নকল</word>
+	<word_e>xerox</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>জেৰক্স</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>কোনো মূল লেখা বা নথি অথবা তাৰ কোনো অংশৰ হুবহু ৰূপত তৈয়াৰ কৰা অন্য এক নথি |</def>
+		<syn>নকল</syn>
+		<syn>প্ৰতিলিপি</syn>
+		<syn>দ্বিতীয়ক |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+<ent>
+	<word>ছিপ</word>
+	<word_e>yank</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>য়াংক</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>ওপৰলৈ মৰা টান |</def>
+		<syn>ছিপ</syn>
+		<syn>চিপ</syn>
+		<syn>আঁজোৰ |</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<def>হঠাৎ টান মাৰ্ |</def>
+		<syn>আঁজোৰ মাৰ্ |</syn>
+		<phr></phr>
+		<gen>Unassigned gender.</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>জেব্ৰা</word>
+	<word_e>zebra</word_e>
+	<word_h></word_h>
+	<word_s></word_s>
+	<pro>জেব্ৰা</pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>জেব্ৰা |</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+
+<ent>
+	<word>শিশু</word>
+	<word_e>child</word_e>
+	<word_h>शिशु</word_h>
+	<word_s>बाल</word_s>
+	<pro></pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>জন্ম আৰু যৌন ক্ষমতা লাভৰ মাজৰ বয়সৰ লোক |</def>
+		<syn>শিশু</syn>
+		<syn>সন্তান</syn>
+		<syn>ছলি</syn>
+		<syn>বাচ্ছা</syn>
+		<syn>অকণি</syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+</ass>
+
+</dictionary>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>umbrella</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>Am'brella</pro>
+	<origin>Early 17th century: from Italian ombrella, diminutive of ombra 'shade', from Latin umbra </origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain.</def>
+		<pl>s.</pl>
+		<gen>neuter</gen>
+		<syn>parasol</syn>
+		<syn>sunshade</syn>
+		<phr></phr>
+		<eg>She decided to open the umbrella once Soo Lin turned to face her, so the umbrella would expand in her face.</eg>
+	</p>
+	
+	<rhy> Della, dispeller, dweller, Ella, expeller, favela, fella, fellah, feller, Fenella, Floella, foreteller, Heller, impeller, interstellar, Keller, Louella, Mandela, mortadella, mozzarella, Nigella, novella, paella, panatella, patella, predella, propeller.</rhy>
+</ent>
+</eng>
+
+</dictionary>

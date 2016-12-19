@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>peacock</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>pi:kak</pro>
+	<origin>Middle English: from Old English pea (from Latin pavo) 'peacock' + cock1.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>A male peafowl, which has very long tail feathers with eye-like markings that can be erected and fanned out in display.</def>
+		<pl>s.</pl>
+		<gen>common</gen>
+		<syn></syn>
+		<phr></phr>
+		<eg>Male peacocks shed and re-grow tail feathers each year.</eg>
+	</p>
+	
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

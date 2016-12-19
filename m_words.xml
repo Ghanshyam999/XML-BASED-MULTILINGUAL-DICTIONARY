@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>monkey</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>manki</pro>
+	<origin>Mid 16th century: of unknown origin, perhaps from Low German.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl>s.</pl>
+		<eg>It was a place where you can see wild monkeys living in the trees.</eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>monkey</root>
+			<sp>monkeyed</sp>
+			<pp>monkeyed</pp>
+			<sim_pre>monkeys</sim_pre>
+			<pre_par>monkeying</pre_par>
+		</fov>
+		<def>(monkey about/around) Behave in a silly or playful way:</def>
+		<syn>fool about/around</syn>
+		<syn>play about/around</syn>
+		<syn>clown about/around</syn>
+		<syn>fiddle-faddle</syn>
+		<syn>footle about/around</syn>
+		<pl></pl>
+		<gen></gen>
+		<phr></phr>
+		<eg>I saw them monkeying about by the shop</eg>
+	</p>
+	
+	<rhy>chunky, clunky, flunkey, funky, hunky, junkie, junky, punky, spunky </rhy>
+</ent>
+</eng>
+
+</dictionary>

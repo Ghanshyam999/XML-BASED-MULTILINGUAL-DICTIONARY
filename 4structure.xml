@@ -1,0 +1,104 @@
+<dictionary>
+<eng>
+<ent>
+	<word></word>
+	<word_h></word_h>
+	<word_s></word_s>
+	<word_a></word_a>
+	<pro></pro>
+	<origin></origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def></def>
+		<syn></syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root></root>
+			<sp></sp>
+			<pp></pp>
+			<sim_pre></sim_pre>
+			<pre_par></pre_par>
+		</fov>
+		<def></def>
+		<pl></pl>
+		<gen></gen>
+		<syn></syn>
+		<phr></phr>
+		<eg></eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+<ass>
+<ent>
+	<word></word>
+	<word_h></word_h>
+	<word_s></word_s>
+	<word_e></word_e>
+	<pro></pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos></pos>
+		<def></def>
+		<syn></syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+</ass>
+<hin>
+<ent>
+	<word></word>
+	<word_a></word_a>
+	<word_s></word_s>
+	<word_e></word_e>
+	<pro></pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+		<pos></pos>
+		<def></def>
+		<syn></syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg></eg>
+	</p>
+</ent>
+</hin>
+<sans>
+<ent>
+	<word></word>
+	<word_a></word_a>
+	<word_h></word_h>
+	<word_e></word_e>
+	<pro></pro>
+	<origin></origin>
+	<p>
+		<mean>1</mean>
+        <pos></pos>
+        <cases></cases>
+        <def></def>
+        <gen></gen>
+        <num></num>
+        <ending></ending>
+	</p>
+</ent>
+</sans>
+
+</dictionary>

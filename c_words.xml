@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <eng>
+    <ent>
+      <word>cat</word>
+      <word_h/>
+      <word_s/>
+      <word_a/>
+      <pro>cat</pro>
+      <origin>Old English catt, catte, of Germanic origin; related to Dutch kat and German Katze; reinforced in Middle English by forms from late Latin cattus.</origin>
+      <p>
+        <mean>1</mean>
+        <pos>n.</pos>
+        <def>A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.</def>
+        <syn>pussy</syn>
+        <syn>pussy cat</syn>
+        <syn>puss</syn>
+        <phr/>
+        <gen>common</gen>
+        <pl>s.</pl>
+        <eg>"Domestic cats may breed much more frequently, as often as 3 times a year, as they are not typically limited by nutrition or climate"</eg>
+      </p>
+      <p>
+        <mean>2</mean>
+        <pos>v.</pos>
+        <fov>
+          <sp>catted</sp>
+          <pp>catted</pp>
+          <sim_pre>cats</sim_pre>
+          <pre_par>catting</pre_par>
+        </fov>
+        <def>[with object] Nautical.</def>
+        <eg>They catted her anchor as she went.</eg>
+      </p>
+      <rhy>at, bat, brat, chat, cravat, drat, expat, fat, flat, frat, gat, gnat, hat, hereat, high-hat</rhy>
+    </ent>
+    <ent>
+      <word>child</word>
+      <word_h>शिशु</word_h>
+      <word_s>बाल</word_s>
+      <word_a>শিশু</word_a>
+      <pro/>
+      <origin/>
+      <p>
+        <mean>1</mean>
+        <pos/>
+        <def/>
+        <syn/>
+        <ant/>
+        <pl/>
+        <gen/>
+        <phr/>
+        <eg/>
+      </p>
+      <rhy/>
+    </ent>
+  </eng>
+</dictionary>

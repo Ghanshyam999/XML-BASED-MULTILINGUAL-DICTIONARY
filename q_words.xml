@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>queen</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>kwi:n</pro>
+	<origin>Old English cwen, of Germanic origin; related to quean.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>the female ruler of an independent state, especially one who inherits the position by right of birth.</def>
+		<syn>monarch</syn>
+		<syn>sovereign</syn>
+		<syn>head of state</syn>
+		<syn>ruler</syn>
+		<syn>Crown</syn>
+		<syn>Her Majesty</syn>
+		<pl>s</pl>
+		<gen>feminine</gen>
+		<phr></phr>
+		<eg>Queen Victoria.</eg>
+	</p>
+	
+		<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<def>(of a woman) behave in an unpleasantly superior way towards (someone).</def>
+		<eg>"Monique was queening it over everybody"</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

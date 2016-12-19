@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>yahoo</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>ya-hu</pro>
+	<origin>Mid 18th century: from the name of an imaginary race of brutish creatures in Swift's Gulliver's Travels (1726).</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>a rude, noisy, or violent person.</def>
+		<pl></pl>
+		<gen></gen>
+		<syn>savage</syn>
+		<syn>vulgarian</syn>
+		<phr></phr>
+		<eg></eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+<ent>	
+	<word>yank</word>
+	<pro>ya-nk</pro>
+	<origin>Mid 18th century: from the name of an imaginary race of brutish creatures in Swift's Gulliver's Travels (1726).</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>a sudden hard pull.</def>
+		<pl>s.</pl>
+		<gen></gen>
+		<phr></phr>
+		<eg>One of the other girls gave her ponytail a yank.</eg>
+	</p>
+<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>yank</root>
+			<sp>yanked</sp>
+			<pp>yanked</pp>
+			<sim_pre>yanks</sim_pre>
+			<pre_par>yanking</pre_par>
+		</fov>
+		<def>pull with a jerk.</def>
+		<syn>jerk</syn>
+		<syn>pull</syn>
+		<syn>tug</syn>
+		<pl></pl>
+		<gen></gen>
+		<phr></phr>
+		<eg>Two steps and he was at my side, his hand wrapped in my hair, yanking my face up to him.</eg>
+		
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+	
+</dictionary>

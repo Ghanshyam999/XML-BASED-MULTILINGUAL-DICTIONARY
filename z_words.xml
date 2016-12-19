@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>zebra</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>ze-bra</pro>
+	<origin>Early 17th century: from Italian, Spanish, or Portuguese, originally in the sense 'wild ass', perhaps ultimately from Latin equiferus, from equus 'horse' + ferus 'wild'.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>an African wild horse with black-and-white stripes and an erect mane.</def>
+		<syn></syn>
+		<pl>s.</pl>
+		<gen>common</gen>
+		<phr></phr>
+		<eg>This family, made up of the horses, asses and zebras, contains one genus with nine species.</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+<ent>
+	<word>zest</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>ze-st</pro>
+	<origin>Late 15th century: from French zeste 'orange or lemon peel', of unknown origin.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>an African wild horse with black-and-white stripes and an erect mane.</def>
+		<syn>enthusiasm</syn>
+		<syn>gusto</syn>
+		<syn>relish</syn>
+		<syn>zestfulness</syn>
+		<syn>appetite</syn>
+		<syn>joy</syn>
+		<syn>delight</syn>
+		<syn>excitement; </syn>
+		<pl>s.</pl>
+		<gen>neuter</gen>
+		<phr></phr>
+		<eg>The five-year-old has become a celebrity since her rescue from a Ukrainian orphanage, her zest for life and beaming smile winning her many friends.</eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>zest</root>
+			<sp>zested</sp>
+			<pp>zested</pp>
+			<sim_pre>zests</sim_pre>
+			<pre_par>zesting</pre_par>
+		</fov>
+		<def>scrape off the outer coloured part of the peel of (a piece of citrus fruit) for use as flavouring.</def>
+		<syn></syn>
+		<pl></pl>
+		<gen></gen>
+		<phr></phr>
+		<eg>Chop the bacon and onion, zest the lemon.</eg>
+	</p>
+	
+	<rhy>abreast, arrest, attest, beau geste, behest, bequest, best, blessed, blest, breast, Brest.</rhy>
+</ent>
+</eng>
+
+</dictionary>
+		

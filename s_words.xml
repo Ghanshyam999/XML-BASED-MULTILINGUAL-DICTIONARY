@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>sunshine </word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro></pro>
+	<origin></origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>direct sunlight unbroken by cloud, especially over a comparatively large area.</def>
+		<pl></pl>
+		<gen>neuter</gen>
+		<syn>daylight</syn>
+		<phr></phr>
+		<eg>"we walked in the warm sunshine"</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

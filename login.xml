@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<login>
+  <id>
+    <name>Adarsh Kumar Verma</name>
+    <email>adarsh32565@gmail.com</email>
+    <phone>7896858413</phone>
+    <password>97d9de758e20f8e5a74c21ba389fb562</password>
+  </id>
+  <id>
+    <name>kushpal singh yadav</name>
+    <email>yadavkush76@gmail.com</email>
+    <phone>8402875945</phone>
+    <password>8bb33820028dc9ed18e76e9a0a62fabe</password>
+  </id>
+  <id>
+    <name>Akshay Mishra</name>
+    <email>akshay@gmail.com</email>
+    <phone>7569842312</phone>
+    <password>6fd394b2f8f7e2438ca7f0a87a6db994</password>
+  </id>
+</login>

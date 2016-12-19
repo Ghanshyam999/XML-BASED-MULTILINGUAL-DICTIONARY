@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>date</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>date</pro>
+	<origin>Middle English: via Old French from medieval Latin data, feminine past participle of dare 'give'; from the Latin formula used in dating letters, data (epistola) '(letter) given or delivered', to record a particular time or place.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>The day of the month or year as specified by a number.</def>
+		<syn>day</syn>
+		<syn>day of the month</syn>
+		<syn>occasion</syn>
+		<syn>year</syn>
+		<syn>anniversary</syn>
+		<syn>time</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl>s.</pl>
+		<eg>What’s the date today?</eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>n.</pos>
+		<def> the oblong, fleshy fruit of the date palm, a staple food in northern Africa, Arabia, etc., and an important export.</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl>s.</pl>
+		<eg></eg>
+	</p>
+	
+	<p>
+		<mean>3</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>date</root>
+			<sp>dated</sp>
+			<pp>dated</pp>
+			<sim_pre>dates</sim_pre>
+			<pre_par>dating</pre_par>
+		</fov>
+		<def>Establish or ascertain the date of (an object or event).</def>
+		<pl></pl>
+		<gen></gen>
+		<syn>assign a date to</syn>
+		<syn>establish/determine/ascertain the date of</syn>
+		<syn>put a date on/to</syn>
+		<syn>establish/determine</syn>
+		<phr></phr>
+		<eg>They date the paintings to 1460–70.</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

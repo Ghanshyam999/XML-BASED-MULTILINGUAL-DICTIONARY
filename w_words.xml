@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>wag</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>wag</pro>
+	<origin>Middle English (as a verb): from the Germanic base of Old English wagian 'to sway'.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>wag</root>
+			<sp>wagged</sp>
+			<pp>wagged</pp>
+			<sim_pre>wags</sim_pre>
+			<pre_par>wagging</pre_par>
+		</fov>
+		<def>(especially with reference to an animal's tail) move or cause to move rapidly to and fro.</def>
+		<pl></pl>
+		<gen></gen>
+		<syn></syn>
+		<phr></phr>
+		<eg>His tail began to wag.</eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>n.</pos>
+		<def>A single rapid movement from side to side:</def>
+		<pl>s.</pl>
+		<gen></gen>
+		<syn>swing</syn>
+		<syn>sway</syn>
+		<syn>shake</syn>
+		<phr></phr>
+		<eg>A chirpy wag of the head.</eg>
+	</p>
+	
+	<rhy>bag, blag, brag, Bragg, crag, dag, drag, flag, gag, hag, jag, lag, mag, nag, quag, rag, sag, scrag, slag, snag, sprag, stag, swag, tag, zag</rhy>
+</ent>
+</eng>
+
+</dictionary>

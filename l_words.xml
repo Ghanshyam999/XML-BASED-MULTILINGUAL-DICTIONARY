@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>love</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>lav</pro>
+	<origin>Old English lufu, of Germanic origin; from an Indo-European root shared by Sanskrit lubhyati 'desires', Latin libet 'it is pleasing', libido 'desire', also by leave2 and lief.</origin>
+
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>a strong feeling of affection.</def>
+		<syn>deep affection</syn>
+		<syn>fondness</syn>
+		<syn>tenderness</syn>
+		<syn>warmth</syn>
+		<syn>intimacy</syn>
+		<syn>attachment</syn>
+		<syn>endearment</syn>
+		<pl>s</pl>
+		<gen>neuter</gen>
+		<phr></phr>
+		<eg>Babies fill parents with intense feelings of love.</eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>love</root>
+			<sp>loved</sp>
+			<pp>loved</pp>
+			<sim_pre>loves</sim_pre>
+			<pre_par>loving</pre_par>
+		</fov>
+		<def>feel deep affection or sexual love for (someone).</def>
+		<syn>be in love with</syn>
+		<syn>be infatuated with</syn>
+		<syn>be smitten with</syn>
+		<syn>be besotted with</syn>
+		<syn>be passionate about</syn>
+		<eg>Do you love me?</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

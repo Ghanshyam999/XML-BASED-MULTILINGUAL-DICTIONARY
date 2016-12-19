@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>apple</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>ap-ple</pro>
+	<origin>Old English æppel, of Germanic origin; related to Dutch appel and German Apfel.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>The round fruit of a tree of the rose family, which typically has thin green or red skin and crisp flesh.</def>
+		<gen>neu.</gen>
+		<syn></syn>
+		<phr></phr>
+		<pl>s.</pl>
+		<eg>Jackson picked up an apple from the bowl of fruit, tossed it in the air, caught it, then bit into it.</eg>
+	</p>
+	
+	<rhy>chapel, chappal, Chappell, dapple, grapple, scrapple </rhy>
+</ent>
+</eng>
+
+</dictionary>
+		

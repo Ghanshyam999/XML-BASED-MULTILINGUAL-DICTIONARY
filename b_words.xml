@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <eng>
+    <ent>
+      <word>before</word>
+      <word_h/>
+      <word_s/>
+      <word_a/>
+      <pro>be-fore</pro>
+      <origin>Old English beforan (see by, fore), of Germanic origin; related to German bevor.</origin>
+      <p>
+        <mean>1</mean>
+        <pos>prep.</pos>
+        <def>During the period of time preceding (a particular event or time).</def>
+        <syn>in front of</syn>
+        <syn>in the presence of</syn>
+        <syn>in the sight of</syn>
+        <phr/>
+        <gen/>
+        <pl/>
+        <eg>She had to rest before dinner.</eg>
+      </p>
+      <p>
+        <mean>2</mean>
+        <pos>conj.</pos>
+        <def>as a conjunction (connecting two clauses).</def>
+        <pl/>
+        <gen/>
+        <syn>in preference to</syn>
+        <syn>rather than</syn>
+        <syn>sooner than</syn>
+        <syn>above</syn>
+        <syn>over</syn>
+        <syn>instead of</syn>
+        <phr/>
+        <eg>They lived rough for four days before they were arrested.</eg>
+      </p>
+      <p>
+        <mean>3</mean>
+        <pos>adv.</pos>
+        <def>as an adverb (without a following noun).</def>
+        <pl/>
+        <gen/>
+        <syn>prior to</syn>
+        <syn>previous to</syn>
+        <syn>earlier than</syn>
+        <syn>preparatory to</syn>
+        <syn>in preparation for</syn>
+        <phr/>
+        <eg>His playing days had ended six years before.</eg>
+      </p>
+      <rhy>abhor, adore, afore, anymore, ashore, awe, bandore, Bangalore, boar, Boer, bore, caw, chore, claw, cocksure, comprador, cor, core, corps, craw, Delors, deplore, door, draw, </rhy>
+    </ent>
+  </eng>
+</dictionary>

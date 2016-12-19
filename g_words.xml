@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>go</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>go</pro>
+	<origin>Old English gān, of Germanic origin; related to Dutch gaan and German gehen; the form went was originally the past tense of wend.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>chiefly British An attempt or trial at something.</def>
+		<syn>attempt</syn>
+		<syn>try</syn>
+		<syn>effort</syn>
+		<syn>bid</syn>
+		<syn>endeavour</syn>
+		<syn>informal shot</syn>
+		<syn>stab</syn>
+		<syn>crack</syn>
+		<syn>bash</syn>
+		<syn>whirl</syn>
+		<syn>whack</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<eg>It is something I have always wanted to have a go at and the noise it makes is fantastic.</eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>go</root>
+			<sp>went</sp>
+			<pp>gone</pp>
+			<sim_pre>goes</sim_pre>
+			<pre_par>going</pre_par>
+		</fov>
+		<def> Move from one place to another.</def>
+		<pl></pl>
+		<gen></gen>
+		<syn>move</syn>
+		<syn>proceed</syn>
+		<syn>make one's way</syn>
+		<syn>advance</syn>
+		<syn>progress</syn>
+		<syn>pass</syn>
+		<syn>walk</syn>
+		<syn>wend one's way.</syn>
+		<phr></phr>
+		<eg>Clara, still with no idea where she was going, went to ask the boy for directions.</eg>
+	</p>
+	<p>
+
+	<mean>3</mean>
+	<pos>adj.</pos>
+	<def>functioning properly.</def>
+	<eg>"all systems go"</eg>
+	</p>
+	<rhy>aglow, ago, alow, although, apropos, art nouveau, Bamako, Bardot, beau.</rhy>
+</ent>
+</eng>
+
+</dictionary>

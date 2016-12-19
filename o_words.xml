@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>owl</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>aul</pro>
+	<origin>Old English ule, of Germanic origin; related to Dutch uil and German Eule, from a base imitative of the bird's call.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>a nocturnal bird of prey with large eyes, a facial disc, a hooked beak, and typically a loud hooting call.</def>
+		<pl>s</pl>
+		<gen>common</gen>
+		<syn></syn>
+		<phr></phr>
+		<eg>Flammulated Owls are small owls with short ear-tufts that can be held erect or flush to the head.</eg>
+	</p>
+	
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

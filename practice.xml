@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <ass>
+    <ent>
+      <word>apple</word>
+      <pro>এপল্</pro>
+      <origin/>
+      <p>
+        <mean>1</mean>
+        <pos>n.</pos>
+        <def>সৰল পাত আৰু বগা বা গুলপীয়া ৰঙৰ ফুল ধৰা, ইউৰোপ আৰু এছিয়াত উপলব্ধ এক পৰ্ণপাতী উদ্ভিদৰ খাব পৰা এক সুস্বাদু ফল।</def>
+        <syn/>
+        <phr/>
+        <gen>Unassigned gender.</gen>
+        <pl>আপেলবোৰ</pl>
+        <eg/>
+      </p>
+    </ent>
+    <ent>
+      <word>zgvfs</word>
+      <word_e>sbgsdf</word_e>
+      <word_s>sfbfsb</word_s>
+      <word_h>sfbgsf</word_h>
+      <pro>dsgsd</pro>
+      <origin>dsgsd</origin>
+      <p>
+        <mean>1</mean>
+        <pos>dsgad</pos>
+        <def>dgd</def>
+        <syn>dsgds</syn>
+        <ant>dsgsd</ant>
+        <pl>dsgsd</pl>
+        <gen>dgds</gen>
+        <phr>sdgds</phr>
+        <eg>dgds</eg>
+      </p>
+      <p>
+        <mean>2</mean>
+        <pos>dsds</pos>
+        <def>dsgvsd</def>
+        <syn>dsgvsd</syn>
+        <ant>dsvgsd</ant>
+        <pl>dssd</pl>
+        <gen>dsvgsd</gen>
+        <phr>dssd</phr>
+        <eg>sdvgd</eg>
+      </p>
+      <p>
+        <mean>3</mean>
+        <pos>verb</pos>
+        <def/>
+        <fov>
+          <sp>dgvds</sp>
+          <pp>dsgvsd</pp>
+        </fov>
+        <syn/>
+        <ant/>
+        <pl/>
+        <gen/>
+        <phr/>
+        <eg/>
+      </p>
+      <rhy>dsgvsd</rhy>
+    </ent>
+  </ass>
+  <hin>
+</hin>
+  <sans>
+  </sans>
+  <eng>
+    <ent>
+      <word>upgraded</word>
+      <pro>cat</pro>
+      <origin>Old English catt, catte, of Germanic origin; related to Dutch kat and German Katze; reinforced in Middle English by forms from late Latin cattus.</origin>
+      <p>
+        <mean>1</mean>
+        <pos>n.</pos>
+        <def>A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.</def>
+        <syn>pussy</syn>
+        <ant/>
+        <pl>s</pl>
+        <gen>common</gen>
+        <phr/>
+        <eg>"Domestic cats may breed much more frequently, as often as 3 times a year, as they are not typically limited by nutrition or climate"</eg>
+      </p>
+      <p>
+        <mean>2</mean>
+        <pos>v.</pos>
+        <def>[with object] Nautical.</def>
+        <fov>
+          <sp>catted</sp>
+          <pp>catted</pp>
+          <sim_pre>cats</sim_pre>
+          <pre_par>catting</pre_par>
+        </fov>
+        <syn>pussy cat</syn>
+        <ant/>
+        <pl/>
+        <gen/>
+        <phr/>
+        <eg>They catted her anchor as she went.</eg>
+      </p>
+      <rhy>at, bat, brat, chat, cravat, drat, expat, fat, flat, frat, gat, gnat, hat, hereat, high-hat</rhy>
+    </ent>
+    <ent>
+      <word>upgraded</word>
+      <pro/>
+      <origin/>
+      <p>
+        <mean>1</mean>
+        <pos/>
+        <def/>
+        <syn/>
+        <ant/>
+        <pl/>
+        <gen/>
+        <phr/>
+        <eg/>
+      </p>
+      <p>
+        <mean>2</mean>
+        <pos>verb</pos>
+        <def/>
+        <fov>
+          <sp/>
+        </fov>
+        <syn/>
+        <ant/>
+        <pl/>
+        <gen/>
+        <phr/>
+        <eg/>
+      </p>
+      <rhy/>
+    </ent>
+  </eng>
+</dictionary>

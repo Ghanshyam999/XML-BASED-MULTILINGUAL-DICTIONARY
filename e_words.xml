@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>elephant</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>el-e-phant</pro>
+	<origin>Middle English: from Old French elefant, via Latin from Greek elephas, elephant- 'ivory, elephant'.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>A very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears, native to Africa and southern Asia. It is the largest living land animal.</def>
+		<syn></syn>
+		<phr></phr>
+		<gen>common</gen>
+		<pl>s.</pl>
+		<eg>The sale of new ivory was banned in 1989 to curb the slaughter of elephants in Africa.</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

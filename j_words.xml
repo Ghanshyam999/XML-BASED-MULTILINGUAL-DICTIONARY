@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>jam</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>dzam</pro>
+	<origin>Late Middle English (in the sense 'free from (a liability')): from Latin immunis 'exempt from public service or charge', from in- 'not' + munis 'ready for service'. Senses relating to physiological resistance date from the late 19th century.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>jam</root>
+			<sp>jammed</sp>
+			<pp>jammed</pp>
+			<sim_pre>jams</sim_pre>
+			<pre_par>jamming</pre_par>
+		</fov>
+		<def>squeeze or pack tightly into a specified space.</def>
+		<pl></pl>
+		<gen></gen>
+		<syn>ram</syn>
+		<phr></phr>
+		<eg>Four of us were jammed in one compartment.</eg>
+	</p>
+		<p>
+		<mean>2</mean>
+		<pos>n.</pos>
+		<def>an instance of a thing seizing or becoming stuck.</def>
+		<pl>s.</pl>
+		<gen></gen>
+		<syn>jelly</syn>
+		<syn>preserve</syn>
+		<phr></phr>
+		<eg>You can then sprinkle the petit suisse with sugar or strawberry jam.</eg>
+	</p>
+	
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

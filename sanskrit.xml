@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <sans>
+    <ent>
+      <word>बाल</word>
+      <word_e>child</word_e>
+      <word_a>শিশু</word_a>
+      <word_h>शिशु</word_h>
+      <pro> </pro>
+      <p>
+        <mean>1</mean>
+        <pos>विशेषणम्</pos>
+        <def> बालः </def>
+      </p>
+      <p>
+        <mean>2</mean>
+        <pos>शब्द</pos>
+        <cases>nom</cases>
+        <def> अपत्यम्  (apatyam)  </def>
+        <gen>नपुङ्सकलिन्ग </gen>
+        <num>एकवचन</num>
+        <ending>अकारान्त</ending>
+      </p>
+    </ent>
+    <ent>
+      <word>वाल्यम्</word>
+      <word_e>childhood</word_e>
+      <word_a/>
+      <word_h/>
+      <pro> </pro>
+      <p>
+        <mean>1</mean>
+        <pos>शब्द</pos>
+        <cases>प्रथमा विभक्ति</cases>
+        <num>एकवचन </num>
+        <def> वाल्यम् (vaalyam)</def>
+        <gen> नपुङ्सकलिन्ग</gen>
+        <ending>अकारान्त</ending>
+      </p>
+    </ent>
+    <ent>
+      <word>लता</word>
+      <word_e>creeper</word_e>
+      <word_a/>
+      <word_h/>
+      <pro> </pro>
+      <p>
+        <mean>1</mean>
+        <pos>शब्द</pos>
+        <cases>प्रथमा विभक्ति</cases>
+        <def> लता (lataa)  </def>
+        <gen>स्त्रीलिङ्ग </gen>
+        <num>एकवचन  </num>
+        <ending>आकारान्त</ending>
+      </p>
+    </ent>
+  </sans>
+</dictionary>

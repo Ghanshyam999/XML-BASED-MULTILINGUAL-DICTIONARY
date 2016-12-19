@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>hen</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>hen</pro>
+	<origin>Old English henn, of Germanic origin; related to Dutch hen and German Henne.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>A female bird, especially of a domestic fowl.</def>
+		<syn></syn>
+		<phr>as rare (or scarce) as hen's teeth</phr>
+		<gen>feminine</gen>
+		<pl>s.</pl>
+		<eg>The female red junglefowl is leaner than tame hens.</eg>
+	</p>
+	
+	<rhy>Adrienne, again, amen, Ardennes, Behn, Ben, Benn, Bren, cayenne, Cévennes, Dairen, den.</rhy>
+</ent>
+</eng>
+
+</dictionary>

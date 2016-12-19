@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>kick</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>kik</pro>
+	<origin>Mid 19th century: of unknown origin.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>kick</root>
+			<sp>kicked</sp>
+			<pp>kicked</pp>
+			<sim_pre>kicks</sim_pre>
+			<pre_par>kicking</pre_par>
+		</fov>
+		<def>strike or propel forcibly with the foot.</def>
+		<syn>boot</syn>
+		<syn>punt</syn>
+		<syn>strike with the foot.</syn>
+		<phr>kick against the pricks</phr>
+		<gen></gen>
+		<pl></pl>
+		<eg>Police kicked down the door.</eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>n.</pos>
+		<def>a blow or forceful thrust with the foot.</def>
+		<syn></syn>
+		<gen>neu.</gen>
+		<pl>s.</pl>
+		<phr></phr>
+		<eg>A more probable explanation for some injuries was that they were caused by blows and kicks.</eg>
+	</p>
+	
+	
+	<rhy></rhy>
+</ent>
+</eng>
+
+</dictionary>

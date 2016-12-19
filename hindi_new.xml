@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<hin>
+<ent>
+	<word>तारिख</word>
+	<word_e>date</word_e>
+	<word_a></word_a>
+	<word_s></word_s>
+	<pro>डेट / डैट</pro>
+	<origin></origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>महीने का प्रत्येक दिन </def>
+		<syn> समय निर्धारित करना</syn>
+		<syn>स्वजूरघटनाकाल</syn>
+		<syn>अप्रचलित होना</syn>
+		<syn>समय देना</syn>
+		<syn>काल (m)</syn>
+		<syn>कालावधि (f)</syn>
+		<syn>निर्धारित समय पर मिलना</syn>
+		<syn>तारिख का मौजूद होना</syn>
+		<syn>तारीख (f)</syn>
+		<syn>तिथि (f)</syn>
+		<syn>दिनांक</syn>
+		<phr></phr>
+		<gen></gen>
+		<pl></pl>
+		<ant></ant>
+		<eg> प्राचीन खर्जुर वाहक, खजुराहो आज अपनी कला एवं मंदिर की वास्‍तुकला के विशिष्‍ट पैटर्न का प्रतिनिधित्‍व करता है जो चंदेल राजपूतों के शासन काल के दौरान विद्यमान एक समृद्ध एवं रचनात्‍मक अवधि की याद दिलाता है। </eg>
+	</p>
+	
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<def> तारिख का मौजूद होना </def>
+		<pl></pl>
+		<gen></gen>
+		<syn> शुरू होना</syn>
+		<syn>का होना</syn>
+		<syn>भेंट करना</syn>
+		<syn>प्रारंभ होना</syn>
+		<syn>पर तारीख लिखना</syn>
+		<syn>काल निर्धारित करना</syn>
+		<syn>सामाजिक सम्मिलन जारी रखना</syn>
+		<syn>दिनांकित करना</syn>
+		<syn>तिथि डालना</syn>
+		<syn>मिति लिखना</syn>
+		<ant></ant>
+		<phr></phr>
+		<eg>मैं उस तारीख  को मोझूद नहीं था !</eg>
+	</p>
+	
+	<rhy></rhy>
+</ent>
+
+<ent>
+	<word>शिशु</word>
+	<word_e>child</word_e>
+	<word_a>শিশু</word_a>
+	<word_s>बालक</word_s>
+	<pro>चाइल्ड</pro>
+	<origin></origin>
+	
+	<p> 
+        <pos> संज्ञा</pos>
+        <mean>बच्चा (bachcha ),बच्ची (, bachcha ) ,शिशु (shishu)</mean>
+        <gen> उभयलिंग</gen>
+		<syn>शिशु</syn>
+		<syn>बालक</syn>
+		<syn>बच्ची</syn>
+		<syn>सन्तान</syn>
+		<ant> जनक</ant>
+		<ant>जन्महेतु</ant>
+        <pl>बच्चे</pl>
+		<phr></phr>
+	</p>
+    <rhy></rhy>
+</ent>
+
+<ent>
+	<word>धोखा</word>
+	<word_e>cheat</word_e>
+	<word_a>ঠগ</word_a>
+	<word_s>वञ्चक</word_s>
+	<pro>चीट</pro>
+	<origin></origin>
+	
+	<p> 
+        <pos> संज्ञा</pos>
+        <mean>ठग,धोखा,ढकोसला</mean>
+        <gen> उभयलिंग</gen>
+        <pl>एक वचन</pl>
+		<syn></syn>
+		<ant> </ant>
+		<phr></phr>
+        <eg>उसने मुझे धोखा दिया ।</eg>
+    </p>
+    <p> 
+        <pos> क्रिया</pos>
+        <mean>कपट करना,धोखा देना, ठगना,ढकोसला करना </mean>
+		<ant> </ant>
+		<syn></syn>
+		<phr></phr>
+		<pl></pl>
+        <eg>उस दुकानदार ने मेरे साथ धोका किया ।</eg>
+    </p>
+</ent>
+
+<ent>
+	<word>आलसी</word>
+	<word_e>lazy</word_e>
+	<word_a> এলেহুৱা</word_a>
+	<word_s>अलस</word_s>
+	<pro>लेज़इ/लेज़ी</pro>
+	<origin></origin>
+	<p> 
+        <pos> विशेषण </pos>
+        <mean>आलसी,सुस्त,मंद,काहिल</mean>
+        <syn></syn>
+		<ant> शक्तिशाली</ant>
+		<gen></gen>
+		<pl></pl>
+		<phr></phr>
+        <eg>रमेश अपने काम मे बहुत आलसी हे ।</eg>
+    </p>
+          
+    
+</ent>
+
+<ent>
+	<word></word>
+	<word_e>into</word_e>
+	<word_a>ভিতৰ</word_a>
+	<word_s>अन्तर्</word_s>
+	<pro>इन्ट/इन्टु/इन्टू</pro>
+	<origin></origin>
+	<p> 
+        <pos> सम्बन्ध सूचक-अव्यय</pos>
+        <mean>में,भीतर,के अंदर,अंदर,बीच में</mean>
+        <syn></syn>
+		<ant> </ant>
+        <eg>कपडो॑ को बकसे में रख देना ।</eg>
+		<pl></pl>
+		<gen></gen>
+    </p>
+    <phr></phr>      
+     
+</ent>
+</hin>
+
+</dictionary>

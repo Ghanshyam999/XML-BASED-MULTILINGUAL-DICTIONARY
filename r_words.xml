@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>rust</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>rast</pro>
+	<origin>Old English rust, of Germanic origin; related to Dutch roest, German Rost, also to red.
+
+</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>n.</pos>
+		<def>a reddish- or yellowish-brown flaking coating of iron oxide that is formed on iron or steel by oxidation, especially in the presence of moisture.</def>
+		<pl>s.</pl>
+		<gen></gen>
+		<syn>corrode</syn>
+		<syn>oxidize</syn>
+		<syn>become rusty</syn>
+		<syn>tarnish</syn>
+		<phr></phr>
+		<eg>Paint protects your car from rust.</eg>
+	</p>
+	<p>
+		<mean>2</mean>
+		<pos>v.</pos>
+		<fov>
+			<root>rust</root>
+			<sp>rusted</sp>
+			<pp>rusted</pp>
+			<sim_pre>rusts</sim_pre>
+			<pre_par>rusting</pre_par>
+		</fov>
+		<def>be affected with rust.</def>
+		<pl></pl>
+		<gen></gen>
+		<syn></syn>
+		<phr></phr>
+		<eg>The blades had rusted away.</eg>
+	</p>
+	
+	<rhy>adjust, august, bust, combust, crust, dust, encrust, entrust, gust, just, lust, mistrust, must, robust, thrust, trust, undiscussed </rhy>
+</ent>
+</eng>
+
+</dictionary>

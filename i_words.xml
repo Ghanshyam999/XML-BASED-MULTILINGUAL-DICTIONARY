@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<eng>
+<ent>
+	<word>immune</word>
+    <word_h></word_h>
+    <word_s></word_s>
+    <word_a></word_a>
+	<pro>i'mju:n</pro>
+	<origin>Late Middle English (in the sense 'free from (a liability')): from Latin immunis 'exempt from public service or charge', from in- 'not' + munis 'ready for service'. Senses relating to physiological resistance date from the late 19th century.</origin>
+	
+	<p>
+		<mean>1</mean>
+		<pos>adj.</pos>
+		<def>resistant to a particular infection or toxin owing to the presence of specific antibodies or sensitized white blood cells.</def>
+		<gen></gen>
+		<syn></syn>
+		<phr></phr>
+		<pl></pl>
+		<eg>"they were naturally immune to hepatitis B"</eg>
+	</p>
+	
+	<rhy>afternoon, attune, autoimmune, baboon, balloon, bassoon, bestrewn, boon, Boone, bridoon, buffoon, Cameroons, cardoon, cartoon, Changchun, cocoon, commune, croon, doubloon, dragoon, dune, festoon, galloon, goon, harpoon, hoon, importune, impugn, Irgun, jejune, June, Kowloon, lagoon, lampoon, loon, macaroon, maroon, monsoon, moon, Muldoon, noon, oppugn, picayune, platoon, poltroon, pontoon, poon, prune, puccoon, raccoon, Rangoon, ratoon, rigadoon, rune, saloon, Saskatoon, Sassoon, Scone, soon, spittoon, spoon, swoon, Troon, tune, tycoon, typhoon, Walloon</rhy>
+</ent>
+</eng>
+
+</dictionary>
